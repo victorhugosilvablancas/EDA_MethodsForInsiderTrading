@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Silva-Blancas"
+  given-names: "Victor Hugo"
+  orcid: "https://orcid.org/0000-0002-6429-2829"
+title: "Java code for EDA Methods for Insider Trading"
+version: 1.0.0
+date-released: 2024-05-10
+url: "https://github.com/victorhugosilvablancas/EDA_MethodsForInsiderTrading"
