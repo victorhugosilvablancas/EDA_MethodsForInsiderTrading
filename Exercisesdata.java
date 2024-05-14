@@ -88,18 +88,6 @@ public class Exercisesdata {
                 + "where idexercise="+idexercise+" "
                 ;
     }
-    /*
-    public static void AgregaRegistrosValor(Registrosdata rdata) {
-        Sharesdata midato=new Sharesdata();
-        for (int i=0;i<Sharesdata.listatransactions.size();i++) {
-            midato=Sharesdata.listatransactions.get(i);
-            if (midato.getTransactionType().equals(rdata.exerciseDate)) {
-                midato.exerciseDateFn++;
-                midato.valortotal+=rdata.transactionTotalValue;
-                Sharesdata.listatransactions.set(i, midato);
-            }
-        }
-    }*/
     
     
 }
